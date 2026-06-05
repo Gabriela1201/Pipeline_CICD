@@ -10,10 +10,15 @@ O aluno deverá criar, configurar e validar um pipeline CI/CD completo, utilizan
 A atividade simula um fluxo real de trabalho DevOps, incluindo:
 
 • Controle de versão com Git
+
 • Estruturação de um projeto simples
+
 • Pipeline de CI (integração contínua)
+
 • Pipeline de CD (deploy contínuo)
+
 • Publicação automática no GitHub Pages
+
 • Observação dos logs, métricas e artefatos gerados pelo pipeline
 
 3. Introdução
